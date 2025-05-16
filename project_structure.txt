@@ -1,0 +1,5 @@
+📂 profile-summary-generator
+├── app.py               # Main Streamlit application
+├── .env                 # API key (not committed)
+├── requirements.txt     # Python dependencies
+└── README.md            # Project documentation
