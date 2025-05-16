@@ -1,8 +1,11 @@
-
-
 # 🧠 Professional Summary Generator
 
 A sleek and simple web app built with Streamlit that uses Groq’s LLaMA 3.3 70B Versatile model to generate professional summaries (long and short) for job applicants based on their name, designation, and experience.
+
+---
+
+# Deployed On Streamlit
+https://profile-summary-generator.streamlit.app/
 
 ---
 
